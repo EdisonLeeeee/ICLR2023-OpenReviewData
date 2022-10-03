@@ -62,7 +62,7 @@ The top 50 common keywords (uncased) and their frequency:
     <img src="sources/50_most_keywords_2022.png" width="400"/><img src="sources/50_most_keywords_2023.png" width="400"/>
 </p>
 
-+ **Top-10 Ranking Changes** (full list please refer to [keywords.md](./keywords.md))
++ **Top-10 Ranking between 2022 and 2023** (full list please refer to [keywords.md](./keywords.md))
 
 | Keyword                  |   2022 |   2023 |
 |:-------------------------|-------:|-------:|
@@ -76,6 +76,23 @@ The top 50 common keywords (uncased) and their frequency:
 | contrastive learning     |     10 |      8 |
 | robustness               |      9 |      9 |
 | generative model         |      8 |     10 |
+
++ **Ranking Changes of Top-50 keywords**
+
+| Keywords                       | 2022 | 2023 | rank $\uparrow$ |
+| :----------------------------- | ---: | ---: | -------------:  |
+| large language model           |  208 |   32 |            176  |
+| diffusion model                |  173 |   14 |            159  |
+| offline reinforcement learning |   59 |   20 |             39  |
+| sparsity                       |   85 |   49 |             36  |
+| adversarial training           |   19 |   47 |            -28  |
+| differential privacy           |   45 |   23 |             22  |
+| fairness                       |   43 |   22 |             21  |
+| model compression              |   61 |   41 |             20  |
+| domain generalization          |   55 |   36 |             19  |
+| time series                    |   58 |   40 |             18  |
+
+
 
 + **Keywords Cloud**
 The word clouds formed by keywords of submissions show the hot topics including *deep learning*, *reinforcement learning*, *representation learning*, *graph neural network*, etc.
@@ -92,7 +109,7 @@ The top 50 common title keywords (uncased) and their frequency:
     <img src="sources/50_most_title_2022.png" width="400"/><img src="sources/50_most_title_2023.png" width="400"/>
 </p>
 
-+ **Top-10 Ranking Changes** (full list please refer to [title.md](./title.md))
++ **Top-10 Ranking between 2022 and 2023** (full list please refer to [title.md](./title.md))
 
 | Title          |   2022 |   2023 |
 |:---------------|-------:|-------:|
@@ -106,6 +123,21 @@ The top 50 common title keywords (uncased) and their frequency:
 | efficient      |      9 |      8 |
 | language       |     15 |      9 |
 | federate       |     14 |     10 |
+
++ **Ranking Changes of Top-50 Title keywords**
+
+| Title      | 2022 | 2023 | rank $\uparrow$ |
+| :--------- | ---: | ---: | -------------:  |
+| mask       |  325 |   45 |            280  |
+| diffusion  |  132 |   25 |            107  |
+| base       |   76 |   36 |             40  |
+| visual     |   61 |   38 |             23  |
+| offline    |   55 |   34 |             21  |
+| attack     |   25 |   46 |            -21  |
+| vision     |   64 |   44 |             20  |
+| generation |   36 |   17 |             19  |
+| adaptive   |   45 |   32 |             13  |
+| knowledge  |   38 |   26 |             12  |
 
 + **Title Keywords Cloud**
 The word clouds formed by keywords of submission titles:
