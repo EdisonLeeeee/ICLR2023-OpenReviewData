@@ -62,6 +62,20 @@ The top 50 common keywords (uncased) and their frequency:
     <img src="sources/50_most_keywords_2022.png" width="400"/><img src="sources/50_most_keywords_2023.png" width="400"/>
 </p>
 
++ **Top-10 Ranking Changes** (full list please refer to [keywords.md](./keywords.md))
+
+| Keyword                  |   2022 |   2023 |
+|:-------------------------|-------:|-------:|
+| reinforcement learning   |      1 |      1 |
+| deep learning            |      2 |      2 |
+| representation learning  |      4 |      3 |
+| graph neural network     |      3 |      4 |
+| transformer              |      5 |      5 |
+| federate learning        |      7 |      6 |
+| self-supervised learning |      6 |      7 |
+| contrastive learning     |     10 |      8 |
+| robustness               |      9 |      9 |
+| generative model         |      8 |     10 |
 
 + **Keywords Cloud**
 The word clouds formed by keywords of submissions show the hot topics including *deep learning*, *reinforcement learning*, *representation learning*, *graph neural network*, etc.
@@ -78,6 +92,20 @@ The top 50 common title keywords (uncased) and their frequency:
     <img src="sources/50_most_title_2022.png" width="400"/><img src="sources/50_most_title_2023.png" width="400"/>
 </p>
 
++ **Top-10 Ranking Changes** (full list please refer to [title.md](./title.md))
+
+| Title          |   2022 |   2023 |
+|:---------------|-------:|-------:|
+| representation |      1 |      1 |
+| graph          |      3 |      2 |
+| data           |      6 |      3 |
+| reinforcement  |      2 |      4 |
+| transformer    |      7 |      5 |
+| training       |      5 |      6 |
+| image          |     10 |      7 |
+| efficient      |      9 |      8 |
+| language       |     15 |      9 |
+| federate       |     14 |     10 |
 
 + **Title Keywords Cloud**
 The word clouds formed by keywords of submission titles:
