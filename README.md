@@ -1,9 +1,9 @@
-# Visualize ICLR 2022 OpenReview Data
+# Visualize ICLR 2023 OpenReview Data
 
-ICLR 2022 Paper submission analysis from https://openreview.net/group?id=ICLR.cc/2022/Conference
+ICLR 2023 Paper submission analysis from https://openreview.net/group?id=ICLR.cc/2023/Conference
 
 <p align="center">
-    <img src="sources/logo_wordcloud_keywords.png" width="720"/>
+    <img src="sources/logo_wordcloud_keywords_2023.png" width="720"/>
 </p>
 
 ## Requirements
@@ -59,7 +59,7 @@ Keywords and Title
 The top 50 common keywords (uncased) and their frequency:
 
 <p align="center">
-    <img src="sources/50_most_keywords_2022.png" width="620"/><img src="sources/50_most_keywords_2023.png" width="620"/>
+    <img src="sources/50_most_keywords_2022.png" width="400"/><img src="sources/50_most_keywords_2023.png" width="400"/>
 </p>
 
 
@@ -67,7 +67,7 @@ The top 50 common keywords (uncased) and their frequency:
 The word clouds formed by keywords of submissions show the hot topics including *deep learning*, *reinforcement learning*, *representation learning*, *graph neural network*, etc.
 
 <p align="center">
-    <img src="sources/logo_wordcloud_keywords_2022.png" width="450"/><img src="sources/logo_wordcloud_keywords_2023.png" width="450"/>
+    <img src="sources/logo_wordcloud_keywords_2022.png" width="720"/><img src="sources/logo_wordcloud_keywords_2023.png" width="720"/>
 </p>
 
 
@@ -75,7 +75,7 @@ The word clouds formed by keywords of submissions show the hot topics including 
 The top 50 common title keywords (uncased) and their frequency:
 
 <p align="center">
-    <img src="sources/50_most_title_2022.png" width="620"/><img src="sources/50_most_title_2023.png" width="620"/>
+    <img src="sources/50_most_title_2022.png" width="400"/><img src="sources/50_most_title_2023.png" width="400"/>
 </p>
 
 
@@ -83,7 +83,7 @@ The top 50 common title keywords (uncased) and their frequency:
 The word clouds formed by keywords of submission titles:
 
 <p align="center">
-    <img src="sources/logo_wordcloud_title_2022.png" width="450"/><img src="sources/logo_wordcloud_title_2023.png" width="450"/>
+    <img src="sources/logo_wordcloud_title_2022.png" width="720"/><img src="sources/logo_wordcloud_title_2023.png" width="720"/>
 </p>
 
 
