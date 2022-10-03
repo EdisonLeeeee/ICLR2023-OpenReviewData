@@ -1,0 +1,22 @@
+| Title          |   2022 |   2023 |
+|:---------------|-------:|-------:|
+| representation |      1 |      1 |
+| graph          |      3 |      2 |
+| data           |      6 |      3 |
+| reinforcement  |      2 |      4 |
+| transformer    |      7 |      5 |
+| training       |      5 |      6 |
+| image          |     10 |      7 |
+| efficient      |      9 |      8 |
+| language       |     15 |      9 |
+| federate       |     14 |     10 |
+| optimization   |      8 |     11 |
+| adversarial    |      4 |     12 |
+| robust         |     12 |     13 |
+| generalization |     13 |     14 |
+| detection      |     20 |     15 |
+| contrastive    |     21 |     16 |
+| generation     |     36 |     17 |
+| domain         |     23 |     18 |
+| dynamic        |     30 |     19 |
+| gradient       |     16 |     20 |
